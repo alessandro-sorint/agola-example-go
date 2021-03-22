@@ -9,6 +9,6 @@ import (
 func main() {
 	// we use an external go module
 	fmt.Println(quote.Hello())
-	fmt.Println("Ciaoooo"))
+	fmt.Println("Ciaoooo!"))
 	fmt.Println("Ciaoooo pippo 3"))
 }
